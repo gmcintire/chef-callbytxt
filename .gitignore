@@ -1,0 +1,10 @@
+*.rbc
+*.class
+*.gem
+.vagrant
+.yardoc/*
+doc/*
+tmp/*
+.rvmrc
+tmp/*
+node.json
